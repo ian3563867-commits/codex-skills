@@ -1,0 +1,4 @@
+interface:
+  display_name: "Create Meeting Minutes DOCX"
+  short_description: "Create meeting minutes from a bundled DOCX template."
+  default_prompt: "Use $create-meeting-minutes-docx to create a meeting minutes DOCX from pasted notes."
