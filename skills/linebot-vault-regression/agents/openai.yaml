@@ -1,0 +1,4 @@
+interface:
+  display_name: "LINE Bot Vault Regression"
+  short_description: "Run regression checks for 9002 LINE Bot vault retrieval."
+  default_prompt: "Run the LINE Bot vault regression checks against the local vault-line-bot repo."
