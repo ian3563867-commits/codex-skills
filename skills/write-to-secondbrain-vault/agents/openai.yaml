@@ -1,0 +1,4 @@
+interface:
+  display_name: "Write to Secondbrain Vault"
+  short_description: "Capture repo notes into an Obsidian vault Inbox."
+  default_prompt: "Write this information back to my secondbrain vault Inbox without modifying existing vault notes or committing the vault."
