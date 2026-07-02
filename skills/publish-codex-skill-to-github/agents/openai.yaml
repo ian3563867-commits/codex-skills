@@ -1,0 +1,4 @@
+interface:
+  display_name: "Publish Codex Skill"
+  short_description: "Publish local skills to codex-skills."
+  default_prompt: "Use $publish-codex-skill-to-github to publish this local Codex skill to my codex-skills GitHub repository safely."
