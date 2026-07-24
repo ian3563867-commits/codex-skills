@@ -1,0 +1,7 @@
+interface:
+  display_name: "Draw.io Workflow"
+  short_description: "Read, validate, edit, and export draw.io workflows."
+  default_prompt: "Use $drawio to inspect this .drawio file, explain the requested page, expand linked sub-flows, and clearly flag any inferred or fragile connections."
+
+policy:
+  allow_implicit_invocation: true
