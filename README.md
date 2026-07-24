@@ -43,6 +43,7 @@ skills/
     assets/
     scripts/
   drawio/
+    README.md
     SKILL.md
     agents/
   publish-codex-skill-to-github/
